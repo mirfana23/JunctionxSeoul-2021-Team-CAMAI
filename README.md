@@ -3,7 +3,8 @@ Our team,CAMAI, uses AI models to predict possible shift of river basins which c
 We analyze the observed patterns from satellite images and present our results!
 
 Repo structure:
-Data/ -> where raw and preprocessed images are saved
-curve_peaks.ipynb -> codes for curve peaks detection
-segmentation.ipynb -> codes for preprocess the raw input images
-RiverLSTM.ipynb -> model for image sequence prediction 
+
+* Data/ -> where raw and preprocessed images are saved
+* curve_peaks.ipynb -> codes for curve peaks detection
+* segmentation.ipynb -> codes for preprocess the raw input images
+* RiverLSTM.ipynb -> model for image sequence prediction 
