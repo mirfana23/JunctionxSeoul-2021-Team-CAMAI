@@ -1,6 +1,10 @@
 # JunctionxSeoul-2021-Team-CAMAI
-Our team,CAMAI, uses AI models to predict possible shift of river basins which can help human civilizations around river basins to be well-informed and make wiser decisions.
-We analyze the observed patterns from satellite images and present our results!
+
+Our team, CAMAI, uses AI models to predict possible shift in river flows. With this project, we hope to help:
+* communities around the river be more well-informed and make wiser decisions
+* goverments make better infrastructure plans
+* real estate agents make better investments
+We analyzed the observed patterns from satellite images and present our results!
 
 Repo structure:
 
