@@ -4,6 +4,7 @@ Our team, CAMAI, uses AI models to predict possible shift in river flows. With t
 * communities around the river be more well-informed and make wiser decisions
 * goverments make better infrastructure plans
 * real estate agents make better investments
+
 We analyzed the observed patterns from satellite images and present our results!
 
 Repo structure:
